@@ -1,0 +1,33 @@
+Crop Recommendation System - Week 1 Project Plan
+
+Objective:
+- Prepare the crop dataset for machine learning.
+- Understand the dataset features and target variable.
+- Clean the data for further model training.
+
+Tasks:
+
+1. Data Collection:
+   - Collect the crop dataset (crop_recommendation.csv).
+   - Ensure the dataset contains features like Nitrogen (N), Phosphorus (P), Potassium (K), temperature, humidity, rainfall, soil pH, and crop label.
+
+2. Data Exploration:
+   - Load the dataset using Pandas.
+   - Perform basic exploratory data analysis (EDA) to understand:
+     - Number of rows and columns
+     - Data types of features
+     - Statistical summary (mean, min, max, std)
+     - Distribution of target variable
+
+3. Data Cleaning:
+   - Check for missing values and handle them appropriately.
+   - Remove or correct any inconsistent data if present.
+   - Save the cleaned dataset as `crop_cleaned.csv` for Week 2.
+
+4. Documentation:
+   - Document all observations and cleaning steps in the notebook (`Week1_Data_Preparation.ipynb`).
+   - Maintain a project plan detailing the tasks completed and next steps.
+
+Next Steps (Week 2):
+- Use the cleaned dataset to train machine learning models.
+- Evaluate different models and select the best performing one.
