@@ -16,32 +16,6 @@ By analyzing **Nitrogen (N), Phosphorus (P), Potassium (K), pH, temperature, hum
 ---
 
 ## 🏗️ Project Structure
-Crop-Recommendation-System/
-Week1/
-   data/
-     crop_recommendation.csv
-  notebooks/
-     Week1_Data_Preparation.ipynb
-  README.md
-  project_plan.txt
-│
-├── Week2/
-│ ├── data/
-│ │ └── crop_cleaned.csv
-│ ├── notebooks/
-│ │ └── Week2_Model_Training.ipynb
-│ ├── requirements.txt
-│ └── README.md
-│
-├── Week3/
-│ ├── notebooks/
-│ │ └── Week3_Deployment.ipynb
-│ ├── trained_model/
-│ │ └── crop_model.pkl
-│ ├── README.md
-│ └── final_report.md
-│
-└── README.md (this file)
 
 ---
 
