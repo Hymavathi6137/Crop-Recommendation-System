@@ -17,14 +17,13 @@ By analyzing **Nitrogen (N), Phosphorus (P), Potassium (K), pH, temperature, hum
 
 ## 🏗️ Project Structure
 Crop-Recommendation-System/
-│
-├── Week1/
-│ ├── data/
-│ │ └── crop_recommendation.csv
-│ ├── notebooks/
-│ │ └── Week1_Data_Preparation.ipynb
-│ ├── README.md
-│ └── project_plan.txt
+Week1/
+   data/
+     crop_recommendation.csv
+  notebooks/
+     Week1_Data_Preparation.ipynb
+  README.md
+  project_plan.txt
 │
 ├── Week2/
 │ ├── data/
