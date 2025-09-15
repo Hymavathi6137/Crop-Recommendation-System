@@ -15,9 +15,7 @@ By analyzing **Nitrogen (N), Phosphorus (P), Potassium (K), pH, temperature, hum
 
 ---
 
-## 🏗️ Project Structure
 
----
 
 ## 🛠️ Tools & Technologies
 - **Language:** Python  
