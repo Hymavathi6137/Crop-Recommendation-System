@@ -1,2 +1,2 @@
 import joblib
-joblib.dump(model, "../Week3/trained_model/crop_model.pkl")
+joblib.dump(model, "file:///C:/Users/Hyma/Documents/JupyterProjects/crop_model.pkl")
